@@ -22,10 +22,10 @@
     </div>
 
     <div fcc gap-8 un-children="fcc px-2 aspect-square rd b text-sm">
-      <div hover="animate-puffIn">
+      <div hover="animate-puff-in">
         puffIn
       </div>
-      <div hover="animate-puffOut">
+      <div hover="animate-puff-out">
         puffOut
       </div>
       <div hover-animate-magic>
