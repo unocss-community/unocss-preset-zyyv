@@ -1,7 +1,7 @@
 {
   "name": "unocss-preset-zyyv",
   "type": "module",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "My useful preset about unocss usage.",
   "author": "Chris <https://github.com/zyyv>",
   "license": "MIT",
