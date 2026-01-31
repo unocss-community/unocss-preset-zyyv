@@ -5,4 +5,5 @@ export default defineConfig({
   clean: true,
   dts: true,
   external: ['unocss'],
+  inlineOnly: false,
 })
